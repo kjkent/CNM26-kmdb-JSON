@@ -1,15 +1,24 @@
 {
-  "name": "movies",
+  "name": "kmdb-json",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "dependencies": {
+    "yargs": "^17.1.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjkent/CNM26-kmdb-JSON.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "yargs": "^17.1.0"
-  }
+  "bugs": {
+    "url": "https://github.com/kjkent/CNM26-kmdb-JSON/issues"
+  },
+  "homepage": "https://github.com/kjkent/CNM26-kmdb-JSON#readme"
 }
